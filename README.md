@@ -7,7 +7,7 @@ This is a repository for reviewing early chapters of the book `programming in th
 
 In order to review a chapter pleaase:  
 
-- Navigate to the chapter on github. 
+- Navigate to the chapter on
 - Raise a github issue for that chapter. 
 - Fill in the placehodler questions. 
 
