@@ -30,9 +30,9 @@ Do you have an opinion on the draft material available to view here? We invite t
 - Raise a GitHub issue for the chapter
 - Fill in the placeholder questions
 
-If you have other feedback please raise a regular issue. If you would like to send more detailed or anonymous feedback on this material, please email [Charlotte Bush](Charlotte.Bush@sagepub.co.uk). 
+If you have other feedback please raise a regular issue. If you would like to send more detailed or anonymous feedback on this material, please email [Charlotte Bush](mailto:Charlotte.Bush@sagepub.co.uk). 
 
-If you would like to discuss producing material for teaching computational social science, please email [Jai Seaman](Jai.Seaman@sagepub.co.uk).
+If you would like to discuss producing material for teaching computational social science, please email [Jai Seaman](mailto:Jai.Seaman@sagepub.co.uk).
 
 
 
