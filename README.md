@@ -8,7 +8,7 @@ We have created a [collection of teaching materials](https://github.com/collecti
 
 We recognise that there will be a diverse range of opinions within the community and aim to start a conversation about how our content can best support teaching and learning. We know that there is no one right way to do this, so whether you’re a student, lecturer or researcher, we are interested in your feedback and want to hear from you.
 
-## Licensing and Permissions 
+## Licensing and permissions 
 
 The material shared on this site is in draft form. It is free to access, read and comment on, but must not be reused without prior permission of SAGE Publishing. For further information about reuse, please contact [contracts@sagepub.co.uk](mailto:contracts@sagepub.co.uk).
 
@@ -16,7 +16,7 @@ This is a repository for reviewing draft chapters of the book `From Social Scien
 
 Full citation: Hogan, B. (forthcoming), *From Social Science to Data Science: Scaling Up Your Programming Skills in Python*, London: SAGE. Paperback ISBN: 9781529707489.
 
-## The review process. 
+## The review process
 
 The peer review process helps us and our authors develop the material they have written to ensure it is engaging, up to date and enables effective teaching and learning. We ask for feedback on various aspects of a proposal or chapter, from its structure and writing style to the technical aspects of its accompanying code. 
 
